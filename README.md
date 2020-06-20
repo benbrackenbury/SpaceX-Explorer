@@ -6,5 +6,5 @@ SpaceX Explorer app for iOS, iPadOS, and MacOS.
 
 Light mode ☀️ | Dark mode 🌙
 :-------------------------:|:-------------------------:
-<img src="screenshots/home-light.PNG" alt="light mode screenshot" width="250"/> | <img src="screenshots/home-dark.PNG" alt="dark mode screenshot" width="250"/>
-<img src="screenshots/launches-light.PNG" alt="light mode screenshot" width="250"/> | <img src="screenshots/launches-dark.PNG" alt="dark mode screenshot" width="250"/>
+<img src="screenshots/home-light.png" alt="light mode screenshot" width="250"/> | <img src="screenshots/home-dark.png" alt="dark mode screenshot" width="250"/>
+<img src="screenshots/launches-light.png" alt="light mode screenshot" width="250"/> | <img src="screenshots/launches-dark.png" alt="dark mode screenshot" width="250"/>
